@@ -1,0 +1,211 @@
+body {
+  height: 5000px;
+  font-size: 1rem;
+  overflow-x: hidden;
+}
+
+.logo {
+  border-radius: 50%;
+}
+
+span.navbar-toggler-icon, button.navbar-toggler {
+  border-color: white;
+  border-width: 5px;
+}
+.gradient{
+  background-image: linear-gradient(to right, #000000, #808080);
+}
+
+.page-header {
+  margin-top: 4rem;
+  font-size: 1.25rem;
+  color: white;
+  font-family: 'EB Garamond', serif;
+}
+
+#pianoforte {
+  width: 100%;
+}
+
+.primawave {
+  margin: -1%;
+}
+
+.immaginenote {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.secondawave {
+  margin: -1%;
+}
+
+.terzawave {
+  margin: -1%;
+}
+
+#pianoforte2 {
+  width: 80%;
+}
+
+.testodue {
+ font-size: 44px;
+ font-family: 'EB Garamond', serif;
+}
+
+#testoeparagraphdue {
+  font-size: 19px;
+  font-family: 'EB Garamond', serif;
+}
+
+.feature{
+  color: #fff;
+}
+
+.btn a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.navbar-nav .nav-link {
+  color: #ffffff;
+}
+
+
+ .img-fluid {
+  width: 80%;
+}
+
+ .gallery {
+  background-color: linear-gradient(to right, #000000, #808080);
+}
+
+.gallery img {
+  border-radius: 5%;
+}
+
+.terzotesto {
+  font-family: 'EB Garamond', serif;
+  font-size: 30px;
+  color: #000000;
+}
+
+.altroparagraph {
+  font-family: 'EB Garamond', serif;
+  font-size: 20px;
+  color: #000000;
+}
+
+.coseinpiù {
+  margin-top: 200px;
+}
+
+.parteuno {
+  margin-bottom: 50px;
+}
+
+.quartasezionetesto {
+  font-size: 50px;
+  text-align: left;
+  font-family: 'EB Garamond', serif;
+  color: #ffffff;
+  margin-bottom: 60px;
+}
+
+.gallery {
+  background-image: linear-gradient(to right, #808080, #000000);
+}
+
+.gallery video {
+  border-radius: 5%;
+}
+
+.ultimotext {
+  text-align: center;
+  font-family: 'EB Garamond', serif;
+  font-size: 80px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.columns {
+  float: left;
+  width: 33.3%;
+  padding: 8px;
+}
+
+.price {
+  list-style-type: none;
+  border: 1px solid #cccccc;
+  margin: 0;
+  padding: 0;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.price:hover {
+  box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+}
+
+.price .header {
+  background-color: #000000;
+  color: white;
+  font-size: 25px;
+}
+
+.price li {
+  border-bottom: 1px solid #eee;
+  padding: 20px;
+  text-align: center;
+}
+
+.price .black {
+  background-color: #000000;
+  font-size: 20px;
+}
+
+.button {
+  background-color: #000000;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+@media only screen and (max-width: 600px) {
+  .columns {
+    width: 100%;
+  }
+}
+
+.container {
+  text-align: center;
+}
+
+
+.price-container {
+  display: inline-block;
+  text-align: center;
+}
+
+.footer {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.socialicons {
+  margin-bottom: 60px;
+}
+
+.copyright {
+  margin-top: 60px;
+}
